@@ -1,0 +1,170 @@
+{
+  "block": {
+    "source": [
+      331,
+      401
+    ],
+    "rendered": [
+      261,
+      316
+    ],
+    "baseline": 488,
+    "removedComponents": 0
+  },
+  "block_hit": {
+    "source": [
+      381,
+      396
+    ],
+    "rendered": [
+      304,
+      316
+    ],
+    "baseline": 488,
+    "removedComponents": 0
+  },
+  "victory": {
+    "source": [
+      332,
+      430
+    ],
+    "rendered": [
+      301,
+      390
+    ],
+    "baseline": 488,
+    "removedComponents": 1
+  },
+  "special": {
+    "source": [
+      744,
+      1101
+    ],
+    "rendered": [
+      270,
+      400
+    ],
+    "baseline": 488,
+    "removedComponents": 0
+  },
+  "jump_punch_0": {
+    "source": [
+      330,
+      393
+    ],
+    "rendered": [
+      302,
+      360
+    ],
+    "baseline": 480,
+    "removedComponents": 0
+  },
+  "jump_punch_1": {
+    "source": [
+      373,
+      380
+    ],
+    "rendered": [
+      353,
+      360
+    ],
+    "baseline": 480,
+    "removedComponents": 0
+  },
+  "jump_kick_0": {
+    "source": [
+      246,
+      389
+    ],
+    "rendered": [
+      228,
+      361
+    ],
+    "baseline": 480,
+    "removedComponents": 2
+  },
+  "jump_kick_1": {
+    "source": [
+      351,
+      328
+    ],
+    "rendered": [
+      385,
+      360
+    ],
+    "baseline": 480,
+    "removedComponents": 0
+  },
+  "crouch_punch_0": {
+    "source": [
+      287,
+      312
+    ],
+    "rendered": [
+      262,
+      285
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "crouch_punch_1": {
+    "source": [
+      322,
+      300
+    ],
+    "rendered": [
+      306,
+      285
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "crouch_kick_0": {
+    "source": [
+      270,
+      312
+    ],
+    "rendered": [
+      247,
+      285
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "crouch_kick_1": {
+    "source": [
+      353,
+      293
+    ],
+    "rendered": [
+      343,
+      285
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "stun_0": {
+    "source": [
+      599,
+      660
+    ],
+    "rendered": [
+      327,
+      360
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "stun_1": {
+    "source": [
+      508,
+      632
+    ],
+    "rendered": [
+      289,
+      360
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  }
+}

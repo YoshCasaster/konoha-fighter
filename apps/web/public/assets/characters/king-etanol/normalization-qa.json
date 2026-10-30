@@ -1,0 +1,278 @@
+{
+  "block": {
+    "source": [
+      352,
+      402
+    ],
+    "rendered": [
+      299,
+      341
+    ],
+    "baseline": 500,
+    "removedComponents": 0
+  },
+  "block_hit": {
+    "source": [
+      401,
+      433
+    ],
+    "rendered": [
+      316,
+      341
+    ],
+    "baseline": 500,
+    "removedComponents": 1
+  },
+  "get_up": {
+    "source": [
+      353,
+      292
+    ],
+    "rendered": [
+      314,
+      260
+    ],
+    "baseline": 500,
+    "removedComponents": 3
+  },
+  "victory": {
+    "source": [
+      316,
+      440
+    ],
+    "rendered": [
+      262,
+      365
+    ],
+    "baseline": 500,
+    "removedComponents": 2
+  },
+  "special": {
+    "source": [
+      775,
+      829
+    ],
+    "rendered": [
+      332,
+      355
+    ],
+    "baseline": 500,
+    "removedComponents": 0
+  },
+  "jump_punch_0": {
+    "source": [
+      279,
+      377
+    ],
+    "rendered": [
+      266,
+      359
+    ],
+    "baseline": 480,
+    "removedComponents": 0
+  },
+  "jump_punch_1": {
+    "source": [
+      396,
+      374
+    ],
+    "rendered": [
+      381,
+      360
+    ],
+    "baseline": 480,
+    "removedComponents": 0
+  },
+  "jump_kick_0": {
+    "source": [
+      243,
+      397
+    ],
+    "rendered": [
+      220,
+      359
+    ],
+    "baseline": 480,
+    "removedComponents": 2
+  },
+  "jump_kick_1": {
+    "source": [
+      399,
+      337
+    ],
+    "rendered": [
+      426,
+      360
+    ],
+    "baseline": 480,
+    "removedComponents": 0
+  },
+  "crouch_punch_0": {
+    "source": [
+      297,
+      297
+    ],
+    "rendered": [
+      285,
+      285
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "crouch_punch_1": {
+    "source": [
+      343,
+      288
+    ],
+    "rendered": [
+      339,
+      285
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "crouch_kick_0": {
+    "source": [
+      245,
+      295
+    ],
+    "rendered": [
+      237,
+      285
+    ],
+    "baseline": 496,
+    "removedComponents": 2
+  },
+  "crouch_kick_1": {
+    "source": [
+      403,
+      285
+    ],
+    "rendered": [
+      403,
+      285
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "stun_0": {
+    "source": [
+      632,
+      693
+    ],
+    "rendered": [
+      319,
+      350
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "stun_1": {
+    "source": [
+      484,
+      620
+    ],
+    "rendered": [
+      273,
+      350
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "robot_0": {
+    "source": [
+      264,
+      346
+    ],
+    "rendered": [
+      290,
+      380
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "robot_1": {
+    "source": [
+      270,
+      350
+    ],
+    "rendered": [
+      293,
+      380
+    ],
+    "baseline": 496,
+    "removedComponents": 7
+  },
+  "robot_2": {
+    "source": [
+      309,
+      360
+    ],
+    "rendered": [
+      326,
+      380
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "robot_3": {
+    "source": [
+      339,
+      355
+    ],
+    "rendered": [
+      363,
+      380
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "robot_4": {
+    "source": [
+      346,
+      342
+    ],
+    "rendered": [
+      384,
+      380
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "robot_5": {
+    "source": [
+      321,
+      342
+    ],
+    "rendered": [
+      357,
+      380
+    ],
+    "baseline": 496,
+    "removedComponents": 0
+  },
+  "robot_6": {
+    "source": [
+      359,
+      341
+    ],
+    "rendered": [
+      400,
+      380
+    ],
+    "baseline": 496,
+    "removedComponents": 1
+  },
+  "robot_7": {
+    "source": [
+      415,
+      341
+    ],
+    "rendered": [
+      462,
+      380
+    ],
+    "baseline": 496,
+    "removedComponents": 6
+  }
+}

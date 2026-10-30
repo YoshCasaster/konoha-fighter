@@ -1,0 +1,24 @@
+{
+  "button": {
+    "frames": 4,
+    "canvas": [
+      320,
+      96
+    ],
+    "states": [
+      "idle-a",
+      "idle-b",
+      "focus",
+      "pressed"
+    ]
+  },
+  "panel": {
+    "frames": 4,
+    "canvas": [
+      128,
+      128
+    ],
+    "fps": 3,
+    "loop": true
+  }
+}

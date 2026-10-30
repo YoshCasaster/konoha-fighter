@@ -1,0 +1,139 @@
+{
+  "id": "king-etanol",
+  "canvas": [
+    512,
+    512
+  ],
+  "origin": [
+    0.5,
+    1
+  ],
+  "facing": "right",
+  "frames": [
+    "idle_0",
+    "idle_1",
+    "walk_0",
+    "walk_1",
+    "crouch",
+    "jump_start",
+    "jump_air",
+    "land",
+    "light",
+    "heavy",
+    "special",
+    "hit",
+    "block",
+    "block_hit",
+    "knockdown",
+    "get_up",
+    "ko",
+    "victory",
+    "jump_punch_0",
+    "jump_punch_1",
+    "jump_kick_0",
+    "jump_kick_1",
+    "crouch_punch_0",
+    "crouch_punch_1",
+    "crouch_kick_0",
+    "crouch_kick_1",
+    "stun_0",
+    "stun_1",
+    "block_0",
+    "block_1",
+    "robot_0",
+    "robot_1",
+    "robot_2",
+    "robot_3",
+    "robot_4",
+    "robot_5",
+    "robot_6",
+    "robot_7"
+  ],
+  "sequences": {
+    "IDLE": [
+      "idle_0",
+      "idle_1"
+    ],
+    "WALK_FORWARD": [
+      "walk_0",
+      "walk_1"
+    ],
+    "WALK_BACKWARD": [
+      "walk_1",
+      "walk_0"
+    ],
+    "CROUCH": [
+      "crouch"
+    ],
+    "JUMP_ASCEND": [
+      "jump_start"
+    ],
+    "JUMP_FALL": [
+      "jump_air"
+    ],
+    "LAND": [
+      "land"
+    ],
+    "LIGHT_ATTACK": [
+      "light"
+    ],
+    "HEAVY_ATTACK": [
+      "heavy"
+    ],
+    "SPECIAL_ATTACK": [
+      "special"
+    ],
+    "AIR_LIGHT_ATTACK": [
+      "jump_punch_0",
+      "jump_punch_1"
+    ],
+    "AIR_HEAVY_ATTACK": [
+      "jump_kick_0",
+      "jump_kick_1"
+    ],
+    "CROUCH_LIGHT_ATTACK": [
+      "crouch_punch_0",
+      "crouch_punch_1"
+    ],
+    "CROUCH_HEAVY_ATTACK": [
+      "crouch_kick_0",
+      "crouch_kick_1"
+    ],
+    "BLOCK": [
+      "block_0",
+      "block_1"
+    ],
+    "BLOCK_HIT": [
+      "block_hit"
+    ],
+    "HIT_STUN": [
+      "hit"
+    ],
+    "STUN": [
+      "stun_0",
+      "stun_1"
+    ],
+    "ROBOT_ULTIMATE": [
+      "robot_0",
+      "robot_1",
+      "robot_2",
+      "robot_3",
+      "robot_4",
+      "robot_5",
+      "robot_6",
+      "robot_7"
+    ],
+    "KNOCKDOWN": [
+      "knockdown"
+    ],
+    "GET_UP": [
+      "get_up"
+    ],
+    "KO": [
+      "ko"
+    ],
+    "ROUND_WIN": [
+      "victory"
+    ]
+  }
+}

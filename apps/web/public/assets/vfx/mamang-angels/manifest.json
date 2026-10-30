@@ -1,0 +1,13 @@
+{
+  "id": "mamang-angels",
+  "canvas": [
+    512,
+    512
+  ],
+  "frames": 8,
+  "origin": [
+    0.5,
+    1
+  ],
+  "facing": "right"
+}

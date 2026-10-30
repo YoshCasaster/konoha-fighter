@@ -1,0 +1,27 @@
+{
+  "name": "konoha-fighter",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w @konoha/web",
+    "build": "npm run sprites:validate && npm run vfx:validate && npm run ui:validate && npm run build -w @konoha/web",
+    "typecheck": "tsc -p packages/game-core/tsconfig.json --noEmit && npm run typecheck -w @konoha/web",
+    "test": "node --experimental-strip-types --test packages/game-core/src/*.test.ts",
+    "assets:build": "npm run sprites:build && npm run vfx:build && npm run ui:build",
+    "sprites:build": "node tools/sprite-pipeline/build.mjs",
+    "sprites:validate": "node tools/sprite-pipeline/validate.mjs",
+    "vfx:build": "node tools/vfx-pipeline/build.mjs",
+    "vfx:validate": "node tools/vfx-pipeline/validate.mjs",
+    "ui:build": "node tools/ui-pipeline/build.mjs && node tools/ui-pipeline/build-skill-emblems.mjs && node tools/ui-pipeline/build-retro-theme.mjs && node tools/ui-pipeline/optimize-public.mjs",
+    "ui:optimize": "node tools/ui-pipeline/optimize-public.mjs",
+    "ui:validate": "node tools/ui-pipeline/validate.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.4",
+    "typescript": "^5.9.2"
+  }
+}

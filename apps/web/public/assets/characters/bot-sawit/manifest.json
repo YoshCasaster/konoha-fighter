@@ -1,0 +1,33 @@
+{
+  "id": "bot-sawit",
+  "canvas": [
+    512,
+    512
+  ],
+  "origin": [
+    0.5,
+    1
+  ],
+  "frames": [
+    "idle",
+    "hit_right",
+    "hit_left",
+    "recover"
+  ],
+  "sequences": {
+    "IDLE": [
+      "idle"
+    ],
+    "HIT_STUN": [
+      "hit_right",
+      "hit_left"
+    ],
+    "STUN": [
+      "hit_right",
+      "hit_left"
+    ],
+    "RECOVER": [
+      "recover"
+    ]
+  }
+}
