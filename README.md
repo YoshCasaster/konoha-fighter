@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="apps/web/public/assets/stages/civic-plaza.webp" width="100%" alt="Konoha Fighter Civic Plaza battle arena">
+  <img src="docs/images/gameplay-overview.webp" width="100%" alt="Mamang Grrovy versus King Etanol gameplay">
 </p>
 
 ## About the game
