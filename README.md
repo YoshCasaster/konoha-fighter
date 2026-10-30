@@ -298,7 +298,7 @@ Bot Sawit currently acts as an immortal reaction dummy. The approved active-CPU 
 
 This repository is a playable offline prototype. It is suitable for local testing, mobile-control iteration, combat balancing, and asset-pipeline development. Competitive online networking is still under development.
 
-No license file is currently included. Add a license before distributing the project or accepting external contributions.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
